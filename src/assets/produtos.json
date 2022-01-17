@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "1",
+    "image": {
+      "img": "https://www.fastshop.com.br/wcsstore/FastShopCAS/imagens/_AE_Apple/AEMGJC3BRABCO/AEMGJC3BRABCO_PRD_160_1.jpg",
+      "imgCarroseul": {
+        "img1": "https://www.fastshop.com.br/wcsstore/FastShopCAS/imagens/_AE_Apple/AEMGJC3BRABCO/AEMGJC3BRABCO_PRD_160_1.jpg",
+        "img2": "https://www.fastshop.com.br//wcsstore/FastShopCAS/imagens/_AE_Apple/AEMGJC3BRABCO/V2/AEMGJC3BRABCO_PRD_447_2.jpg",
+        "img3": "https://www.fastshop.com.br//wcsstore/FastShopCAS/imagens/_AE_Apple/AEMGJC3BRABCO/V2/AEMGJC3BRABCO_PRD_447_3.jpg",
+        "img4": "https://www.fastshop.com.br//wcsstore/FastShopCAS/imagens/_AE_Apple/AEMGJC3BRABCO/V2/AEMGJC3BRABCO_PRD_447_4.jpg",
+        "img5": "https://www.fastshop.com.br//wcsstore/FastShopCAS/imagens/_AE_Apple/AEMGJC3BRABCO/V2/AEMGJC3BRABCO_PRD_447_5.jpg",
+        "img6": "https://www.fastshop.com.br//wcsstore/FastShopCAS/imagens/_AE_Apple/AEMGJC3BRABCO/V2/AEMGJC3BRABCO_PRD_447_6.jpg",
+        "img7": "https://www.fastshop.com.br//wcsstore/FastShopCAS/imagens/_AE_Apple/AEMGJC3BRABCO/V2/AEMGJC3BRABCO_PRD_447_7.jpg",
+        "img8": "https://www.fastshop.com.br//wcsstore/FastShopCAS/imagens/_AE_Apple/AEMGJC3BRABCO/V2/AEMGJC3BRABCO_PRD_447_8.jpg"
+      }
+
+    },
+    "nomeProduto": "iPhone 12 Apple (128GB) Branco, Tela de 6,1, 5G e Câmera Dupla de 12 MP",
+    "codigo": "AEMGJC3BRABCOB",
+    "preco": 8.49900,
+    "precoDesconto": 5.49900,
+    "precoPrime": 5.44401,
+    "precoAVista": 5.59900,
+    "voltagem": {
+      "bivolt": true,
+      "110": false,
+      "220": false
+    },
+    "quantidade": 1
+  }
+]
